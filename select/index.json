@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ホムンクルス",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-11T06:22:21.195478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホムンクルス",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_ホムンクルス_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホムンクルス - Homunculus",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_ホムンクルス_-_Homunculus_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ホムンクルス",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_ホムンクルス_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホムンクルス - Homunculus",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_ホムンクルス_-_Homunculus_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホムンクルス",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_ホムンクルス_Tele.txt"
+    }
+  ]
+}
